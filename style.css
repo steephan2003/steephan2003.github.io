@@ -1,0 +1,129 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 35px;
+    float: left
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text{
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left:150px;
+}
+.login-settings{
+    color: white;
+    font-size: 11px;
+}
+.submit-btn{
+    background-color:#3b5998;
+    color: white;
+    border-color: #9cb4d8;
+    cursor: pointer;
+}
+.submit-btn:hover{
+    background-color:#032c84;
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 600px;
+}
+
+.imgside{
+    width: 50%;
+    padding-left: 50px;
+    float: left;
+}
+.details{
+    width: 40%;
+    float: left;
+    padding-top: 0px;
+    margin-left: 60px;
+}
+.para{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 90px;
+    padding-top: 4%;
+    float: left;
+}
+.imgstyle{
+    image-resolution: 100000000000000000000000000000000000000000000000000000000000000000px;
+    width: 800px;
+}
+.create{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 0px
+}
+.box{
+    height: 24px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: aliceblue;
+    
+}
+.spec::placeholder {
+    color: rgb(0, 0, 0);
+    border: px;
+
+}
+.par{
+    font-size: 13px;
+    color: grey;
+    font-family: inherit;
+}
+.sign{
+    width: 150px;
+    font-size: 20px;
+    border-radius: 6px;
+    border: none;
+    background-color:rgb(35, 142, 21);
+    cursor: pointer;
+    color: azure;
+    font-weight: bold;
+    font-size: 20px;
+    height: 40px;
+    font-family: inherit;
+    margin-top: 10px;
+}
+.quick{
+    padding-top: 0px;
+}
+.footer{
+    height: 160px;
+    padding-top: 50px;
+    margin-left: 200px;
+}
+.pr{
+    
+    color: #737373;
+    list-style-type: none;
+    float: left;
+    margin-right: 20px;
+    font-family: inherit;
+    font-size: 14px;
+    cursor: pointer;
+}
+.contentcurve{
+    border-bottom: 1px solid #dddfe2;
+    font-size: 1px;
+    height: 8px;
+    margin-bottom: 8px;
+    width: 80%;
+}
